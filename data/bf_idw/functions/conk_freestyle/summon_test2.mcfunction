@@ -1,0 +1,1 @@
+give @p item_frame{display:{Name:'{"text":"Conk Freestyle","italic":false}'},CustomModelData:10000,conk_freestyle:1b,EntityTag:{Silent:1b,Tags:["conk_freestyle"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:10000}},Invulnerable:1b,Invisible:1b,Fixed:1b}} 1
